@@ -1,0 +1,63 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<style>
+</style>
+<div class="text-center">
+    <h1 class="display-4">Import</h1>
+
+    <form action="/Home/Product" method="post"  enctype="multipart/form-data" >
+        <hr />
+        <input type="file" name="dataFile" /><button type="submit" class="btn btn-primary">Import</button>
+        <hr />
+        <label class="label">Import Log</label>
+        <div class="result-area">
+            <table>
+                <tr>
+                    <td class="indicator"><input type="radio" class="regular-radio" checked /></td>
+                    <td class="time">[3-5-2020 12:00 AM] </td>
+                    <td class="desc">P12345 - Product description is going here</td>
+                    <td class="status">Success</td>
+
+                </tr>
+                <tr class="success">
+                    <td><input type="radio" class="regular-radio" checked /></td>
+                    <td>[3-5-2020 12:00 AM] </td>
+                    <td>P12345 - Product description is going here</td>
+                    <td>Success</td>
+
+                </tr>
+                <tr>
+                    <td><input type="radio" class="regular-radio" checked /></td>
+                    <td>[3-5-2020 12:00 AM] </td>
+                    <td>P12345 - Product description is going here</td>
+                    <td>Success</td>
+
+                </tr>
+                <tr>
+                    <td><input type="radio" class="regular-radio" checked /></td>
+                    <td>[3-5-2020 12:00 AM] </td>
+                    <td>P12345 - Product description is going here</td>
+                    <td>Success</td>
+
+                </tr>
+                <tr class="fail">
+                    <td><input type="radio" class="regular-radio" checked /></td>
+                    <td>[3-5-2020 12:00 AM] </td>
+                    <td>P12345 - Product description is going here</td>
+                    <td>Success</td>
+
+                </tr>
+                <tr>
+                    <td><input type="radio" class="regular-radio" checked /></td>
+                    <td>[3-5-2020 12:00 AM] </td>
+                    <td>P12345 - Product description is going here</td>
+                    <td>Success</td>
+
+                </tr>
+            </table>
+
+
+        </div>
+    </form>
+</div>

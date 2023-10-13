@@ -1,0 +1,186 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand {
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+}
+
+/* Provide sufficient contrast against white background */
+a {
+    color: #0366d6;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.border-top {
+    border-top: 1px solid #e5e5e5;
+}
+
+.border-bottom {
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+    font-size: 1rem;
+    line-height: inherit;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    /* Margin bottom by footer height */
+    margin-bottom: 60px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    line-height: 60px; /* Vertically center the text there */
+}
+
+.result-area {
+    width: 100%;
+    padding: 10px;
+    height: 500px;
+    text-align: left;
+    border: 1px solid #c3c3c3;
+}
+
+    .result-area table {
+        width: 100%;
+    }
+
+        .result-area table tr {
+           
+            background: rgba(0,0,0,.1);
+        }
+
+            .result-area table tr.success {
+                background: rgba(114, 191, 14,1);
+            }
+            .result-area table tr.fail {
+                background: rgba(241, 5, 5,.2);
+            }
+            .result-area table tr:not(:last-child) {
+                border-bottom: 1px solid rgba(0,0,0,.1);
+            }
+
+            .result-area table tr:first-child td:first-child {
+                border-top-left-radius: 5px;
+            }
+
+            .result-area table tr:first-child td.time{
+                width:180px;
+            }
+
+            .result-area table tr:first-child td.indicator {
+                width: 40px;
+            }
+
+            .result-area table tr:first-child td.status {
+                width: 70px;
+            }
+
+            .result-area table tr:first-child td:last-child {
+                border-top-right-radius: 5px;
+            }
+
+
+            .result-area table tr:last-child td:first-child {
+                border-bottom-left-radius: 5px;
+            }
+
+            .result-area table tr:last-child td:last-child {
+                border-bottom-right-radius: 5px;
+            }
+
+            .result-area table tr td {
+                padding: 15px;
+            }
+
+input [type=file] {
+}
+
+.regular-radio {
+    -webkit-appearance: none;
+    background-color: #fafafa;
+    border: 1px solid #cacece;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.05), inset 0px -15px 10px -12px rgba(0,0,0,0.05);
+    padding: 9px;
+    border-radius: 50px;
+    display: inline-block;
+    position: relative;
+}
+
+    .regular-radio:checked:after {
+        content: ' ';
+        width: 12px;
+        height: 12px;
+        border-radius: 50px;
+        position: absolute;
+        top: 2px;
+        background: #99a1a7;
+        box-shadow: inset 0px 0px 10px rgba(0,0,0,0.3);
+        text-shadow: 0px;
+        left: 2px;
+        font-size: 32px;
+    }
+
+    .regular-radio:checked {
+        height: 18px;
+        width: 18px;
+        background-color: #e9ecee;
+        color: #99a1a7;
+        border: 1px solid #adb8c0;
+        box-shadow: 0 1px 2px rgba(0,0,0,0.05), inset 0px -15px 10px -12px rgba(0,0,0,0.05), inset 15px 10px -12px rgba(255,255,255,0.1), inset 0px 0px 10px rgba(0,0,0,0.1);
+    }
+
+        .regular-radio:active, .regular-radio:checked:active {
+            box-shadow: 0 1px 2px rgba(0,0,0,0.05), inset 0px 1px 3px rgba(0,0,0,0.1);
+        }
+
+.big-radio {
+    padding: 16px;
+}
+
+    .big-radio:checked:after {
+        width: 24px;
+        height: 24px;
+        left: 4px;
+        top: 4px;
+    }

@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-16"?>
+<DevTrackerData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SolutionTotalEditTime="PT8M3.6607065S" SolutionTotalViewTime="PT1H26M23.4100348S" SolutionTotalDebugTime="PT0S">
+  <FileVersion>
+    <Major>1</Major>
+    <Minor>0</Minor>
+  </FileVersion>
+  <SolutionFolder>D:\Repositories\ImportPattern</SolutionFolder>
+  <SolutionCreattionDate>2020-05-29T11:05:29.2644365-05:00</SolutionCreattionDate>
+  <ProjectsCreatedDateList>
+    <ProjectCreated>
+      <ProjectName>D:\Repositories\ImportPattern\ImportPattern.csproj</ProjectName>
+      <CreatedDate>2020-03-10T07:13:00-05:00</CreatedDate>
+    </ProjectCreated>
+  </ProjectsCreatedDateList>
+  <SessionTimeList />
+  <LastSessionTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT31.9278029S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\ImportPattern\Models\CommandInvoker.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\ImportPattern\ImportPattern.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:30:08.9062078-06:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2.6162863S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\ImportPattern\Application\Command\Create\Customer\CreateCustomerHandler.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\ImportPattern\ImportPattern.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:28:05.9211529-06:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M27.6123886S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\ImportPattern\Controllers\HomeController.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\ImportPattern\ImportPattern.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:35:14.4344812-06:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT11.5877097S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\ImportPattern\Models\ICommand.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\ImportPattern\ImportPattern.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:28:08.5384413-06:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT9.2214704S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\ImportPattern\Models\ICommandInvoker.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\ImportPattern\ImportPattern.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:29:38.3658795-06:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT8.4551268S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\ImportPattern\Models\IModel.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\ImportPattern\ImportPattern.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:29:00.6190515-06:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT11.6180492S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\ImportPattern\Models\SalesOrder\SalesOrderCommand.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\ImportPattern\ImportPattern.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:31:18.268949-06:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT13.1533139S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\ImportPattern\Models\SalesOrder\SalesOrderModel.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\ImportPattern\ImportPattern.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:31:20.180251-06:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT22.5394377S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\ImportPattern\Models\Vendor\VendorModel.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\ImportPattern\ImportPattern.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:34:51.8950435-06:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+  </LastSessionTimeList>
+  <TotalTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT31.9278029S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\ImportPattern\Models\CommandInvoker.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\ImportPattern\ImportPattern.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:30:08.9062078-06:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3.6492003S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\ImportPattern\Application\Command\Create\Customer\CreateCustomer.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\ImportPattern\ImportPattern.csproj</ProjectName>
+      <CreatedDate>2020-06-04T15:26:48.3971218-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1H20M18.9361143S" EditActiveTime="PT6M24.1125654S">
+      <ModifiedDate>2020-06-05T14:03:06.1438641-05:00</ModifiedDate>
+      <ModifiedBy>Rajeev</ModifiedBy>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>4</ViewedCount>
+      <Item>D:\Repositories\ImportPattern\Application\Command\Create\Customer\CreateCustomerHandler.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\ImportPattern\ImportPattern.csproj</ProjectName>
+      <CreatedDate>2020-05-29T11:11:08.8993646-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT7.0688136S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\ImportPattern\Application\Command\Create\Product\CreateProductHandler.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\ImportPattern\ImportPattern.csproj</ProjectName>
+      <CreatedDate>2020-06-04T15:26:58.1977176-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M31.7603403S" EditActiveTime="PT1M39.5481411S">
+      <ModifiedDate>2020-05-29T11:10:36.9705313-05:00</ModifiedDate>
+      <ModifiedBy>Rajeev</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>2</ViewedCount>
+      <Item>D:\Repositories\ImportPattern\Models\Customer\CustomerCommand.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\ImportPattern\ImportPattern.csproj</ProjectName>
+      <CreatedDate>2020-05-29T11:05:29.3194364-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2.5760509S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\ImportPattern\Models\Customer\CustomerModel.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\ImportPattern\ImportPattern.csproj</ProjectName>
+      <CreatedDate>2020-06-04T15:26:50.5071118-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M27.6093904S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\ImportPattern\Controllers\HomeController.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\ImportPattern\ImportPattern.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:35:14.4344812-06:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT11.5877097S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\ImportPattern\Models\ICommand.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\ImportPattern\ImportPattern.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:28:08.5384413-06:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT9.2214704S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\ImportPattern\Models\ICommandInvoker.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\ImportPattern\ImportPattern.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:29:38.3658795-06:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT8.4551268S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\ImportPattern\Models\IModel.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\ImportPattern\ImportPattern.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:29:00.6190515-06:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3.3082149S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\ImportPattern\Infrastructure\Import\ImportRequestHandler.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\ImportPattern\ImportPattern.csproj</ProjectName>
+      <CreatedDate>2020-06-04T15:27:05.2665312-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT11.6180492S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\ImportPattern\Models\SalesOrder\SalesOrderCommand.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\ImportPattern\ImportPattern.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:31:18.268949-06:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT13.1533139S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\ImportPattern\Models\SalesOrder\SalesOrderModel.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\ImportPattern\ImportPattern.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:31:20.180251-06:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT22.5394377S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\ImportPattern\Models\Vendor\VendorModel.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\ImportPattern\ImportPattern.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:34:51.8950435-06:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+  </TotalTimeList>
+  <HistoryTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT1M27.6093904S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\ImportPattern\Controllers\HomeController.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\ImportPattern\ImportPattern.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:35:14.4344812-06:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT22.5394377S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\ImportPattern\Models\Vendor\VendorModel.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\ImportPattern\ImportPattern.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:34:51.8950435-06:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT13.1533139S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\ImportPattern\Models\SalesOrder\SalesOrderModel.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\ImportPattern\ImportPattern.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:31:20.180251-06:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT11.6180492S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\ImportPattern\Models\SalesOrder\SalesOrderCommand.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\ImportPattern\ImportPattern.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:31:18.268949-06:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT31.9278029S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\ImportPattern\Models\CommandInvoker.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\ImportPattern\ImportPattern.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:30:08.9062078-06:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT9.2214704S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\ImportPattern\Models\ICommandInvoker.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\ImportPattern\ImportPattern.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:29:38.3658795-06:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT8.4551268S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\ImportPattern\Models\IModel.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\ImportPattern\ImportPattern.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:29:00.6190515-06:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT11.5877097S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\ImportPattern\Models\ICommand.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\ImportPattern\ImportPattern.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:28:08.5384413-06:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2.6162863S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\ImportPattern\Application\Command\Create\Customer\CreateCustomerHandler.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\ImportPattern\ImportPattern.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:28:05.9211529-06:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+  </HistoryTimeList>
+</DevTrackerData>
